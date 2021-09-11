@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>BlueByte.SOLIDWORKS.DocumentMgr.Extensions</id>
+    <!--*-->
+    <version>1.0.0</version>
+    <title>BlueByte.SOLIDWORKS.DocumentMgr.Extensions</title>
+    <!--*-->
+    <authors>Blue Byte Systems, Inc.</authors>
+    <owners>Blue Byte Systems, Inc.</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Extensions for the SOLIDWORKS document manager.</description>
+    <!--*-->
+    <releaseNotes>Extensions for the SOLIDWORKS document manager.</releaseNotes>
+    <copyright>Blue Byte Systems, Inc.</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>
